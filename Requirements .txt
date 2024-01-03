@@ -1,0 +1,4 @@
+golang, CRUD Name description Postman data structure, API.
+database port number: 5432
+database name: task
+database table name: taskinfo
